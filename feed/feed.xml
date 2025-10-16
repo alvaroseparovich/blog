@@ -5,11 +5,30 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/blog/feed/feed.xml" rel="self" />
   <link href="https://example.com/blog/" />
-  <updated>2018-09-30T00:00:00Z</updated>
+  <updated>2025-10-16T00:00:00Z</updated>
   <id>https://example.com/blog/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title></title>
+    <link href="https://example.com/blog/blog/2025-10-16-yabridge/" />
+    <updated>2025-10-16T00:00:00Z</updated>
+    <id>https://example.com/blog/blog/2025-10-16-yabridge/</id>
+    <content type="html">&lt;h1 id=&quot;yabridge&quot;&gt;Yabridge&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/robbert-vdh/yabridge&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;install-yabridge&quot;&gt;Install yabridge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://copr.fedorainfracloud.org/coprs/patrickl/wine-tkg/&quot;&gt;On fedora&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;install-vsts&quot;&gt;Install Vsts&lt;/h2&gt;
+&lt;p&gt;To add a vst2 (.dll),vst3 or clap into yabridge, drop this files into your default vst folder. like &lt;code&gt;~/.vsts/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Then run &lt;code&gt;yabridgectl sync&lt;/code&gt;, this should be enougth to register this vsts to yabridge.&lt;/p&gt;
+&lt;h2 id=&quot;install-exe-vsts&quot;&gt;install .exe vsts&lt;/h2&gt;
+&lt;p&gt;Install the .exe with wine as usual.&lt;br&gt;
+the installed vst should be located at &lt;code&gt;~/.wine/drive_c/Program&#92; Files&lt;/code&gt;, then select the folder where you plugins are located, or the sigle plugin, create a symbolic link to your default vst folder.&lt;br&gt;
+&lt;code&gt;ln ~/.wine/drive_c/Program&#92; Files/&amp;lt;VST FOLDER&amp;gt; ~/.vsts/&amp;lt;VST FOLDER&amp;gt;&lt;/code&gt; doing this you can sync yabridge and it will find your new vst.&lt;br&gt;
+Run &lt;code&gt;yabridgectl sync&lt;/code&gt; to sync&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>This is my fourth post</title>
     <link href="https://example.com/blog/blog/fourthpost/" />
