@@ -3,71 +3,43 @@
 	
 		
 		<url>
-			<loc>https://example.com/blog/blog/firstpost/</loc>
-			<lastmod>2018-05-01</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>https://example.com/blog/blog/secondpost/</loc>
-			<lastmod>2018-07-04</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>https://example.com/blog/blog/thirdpost/</loc>
-			<lastmod>2018-08-24</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>https://example.com/blog/blog/fourthpost/</loc>
-			<lastmod>2018-09-30</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>https://example.com/blog/blog/2025-10-16-yabridge/</loc>
+			<loc>https://alvaroseparovich.github.io/blog/blog/2025-10-16-yabridge/</loc>
 			<lastmod>2025-10-16</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/about/</loc>
-			<lastmod>2025-10-16</lastmod>
+			<loc>https://alvaroseparovich.github.io/blog/about/</loc>
+			<lastmod>2025-10-17</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/blog/</loc>
-			<lastmod>2025-10-16</lastmod>
+			<loc>https://alvaroseparovich.github.io/blog/blog/</loc>
+			<lastmod>2025-10-17</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/</loc>
-			<lastmod>2025-10-16</lastmod>
+			<loc>https://alvaroseparovich.github.io/blog/</loc>
+			<lastmod>2025-10-17</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/tags/</loc>
-			<lastmod>2025-10-16</lastmod>
+			<loc>https://alvaroseparovich.github.io/blog/tags/</loc>
+			<lastmod>2025-10-17</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/feed/feed.xml</loc>
-			<lastmod>2025-10-16</lastmod>
+			<loc>https://alvaroseparovich.github.io/blog/feed/feed.xml</loc>
+			<lastmod>2025-10-17</lastmod>
 		</url>
 	
 </urlset>
